@@ -2,3 +2,5 @@
 kraken test
 
 Actualizo el fichero readme
+
+Actualización del fichero sobre la rama feature
