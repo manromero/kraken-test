@@ -5,4 +5,4 @@ Actualizo el fichero readme
 
 Actualización del fichero sobre la rama feature
 
-Se crea la release v1
+Estamos haciendo la segunda características, o la tercera
