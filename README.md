@@ -5,4 +5,4 @@ Actualizo el fichero readme
 
 Actualización del fichero sobre la rama feature
 
-Estamos haciendo la segunda características, cambios
+Estamos haciendo la segunda características
